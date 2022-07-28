@@ -1,0 +1,10 @@
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\bin\WEB_API10.dll.config
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\bin\WEB_API10.dll
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\bin\WEB_API10.pdb
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\bin\Newtonsoft.Json.dll
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\bin\Newtonsoft.Json.xml
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\obj\Debug\WEB_API10.csproj.AssemblyReference.cache
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\obj\Debug\WEB_API10.csproj.CoreCompileInputs.cache
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\obj\Debug\WEB_API10.csproj.CopyComplete
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\obj\Debug\WEB_API10.dll
+D:\Project Premiere Pro\Project Progress Coding\LKS SMK 2022\WEB_API10\WEB_API10\obj\Debug\WEB_API10.pdb
